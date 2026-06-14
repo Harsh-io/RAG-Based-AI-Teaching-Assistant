@@ -1,0 +1,21 @@
+# Virtual Environment
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Temporary files
+tempCodeRunnerFile.py
+
+# Environment variables
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
+whisper/
+Videos/
+Audios/
+Chunks/
+embeddings.joblib
