@@ -1,5 +1,10 @@
-# Virtual Environment
 .venv/
+Videos/
+whisper/
+Audios/
+Chunks/
+embeddings.joblib
+.git/
 
 # Python cache
 __pycache__/
@@ -14,8 +19,3 @@ tempCodeRunnerFile.py
 # OS files
 .DS_Store
 Thumbs.db
-whisper/
-Videos/
-Audios/
-Chunks/
-embeddings.joblib
