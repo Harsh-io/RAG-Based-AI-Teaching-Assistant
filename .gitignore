@@ -1,21 +1,16 @@
 .venv/
-Videos/
-whisper/
-Audios/
-Chunks/
-embeddings.joblib
 .git/
 
 # Python cache
 __pycache__/
 *.pyc
 
-# Temporary files
-tempCodeRunnerFile.py
-
 # Environment variables
 .env
 
-# OS files
-.DS_Store
-Thumbs.db
+.vscode/
+Extra/
+Videos/
+
+all_audios/
+jsons/
