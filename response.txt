@@ -1,0 +1,9 @@
+I'd be happy to help you with your web development course.
+
+So, you have a few questions regarding the video chunks we covered in our previous sessions.
+
+Firstly, if you're looking for information about creating the basic structure of an HTML website, I'd recommend checking out Video 2, "Your First HTML Website", which covers this topic from around 404.76 seconds onwards. You'll learn how to create a simple web page and understand the different parts of it.
+
+If you want to know more about how websites work and installing VS Code, Video 1, "Installing VS Code & How Websites Work", is where you should go. It starts at around 424.9 seconds and covers both topics in detail.
+
+Lastly, if you're interested in learning about entities, code tags, and other HTML concepts, I'd suggest watching Video 13, "Entities, Code tag and more on HTML". You can start it from the beginning, around 394 seconds, to get a comprehensive understanding of these topics.
