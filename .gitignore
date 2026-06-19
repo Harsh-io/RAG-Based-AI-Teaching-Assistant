@@ -14,3 +14,4 @@ Videos/
 
 all_audios/
 jsons/
+*.joblib
